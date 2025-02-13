@@ -1,4 +1,4 @@
-# Student Performance & File Handling in C++
+# DSA Week 1 Concept Revision
 
 This repository contains C++ programs covering various examples and exercises related to file handling, class structures, templates, and object-oriented programming.
 
