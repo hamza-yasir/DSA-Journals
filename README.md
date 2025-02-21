@@ -17,8 +17,8 @@ A README explaining the week's tasks
 ## Weekly Topics Covered
 This  portion will be updates weekly to keep track of topics covered.
 
-Week 1 : C++ revision of basic concepts such as structures, classes, file I/O , Templates etc.
-Week 2 : Using C++ to implement Stack ADT, primarily expression handling and evaluation.
-Week 3 : Understanding how recursive functions work and their use in C++
+- Week 1 : C++ revision of basic concepts such as structures, classes, file I/O , Templates etc.
+- Week 2 : Using C++ to implement Stack ADT, primarily expression handling and evaluation.
+- Week 3 : Understanding how recursive functions work and their use in C++
 ---
 For any tips or ideas contact me at hamza.yasir.6789@gmail.com
